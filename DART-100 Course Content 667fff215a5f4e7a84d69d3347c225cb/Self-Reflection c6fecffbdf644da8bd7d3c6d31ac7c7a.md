@@ -1,7 +1,7 @@
 # Self-Reflection
 
 Exercise Format: Canvas Assignment
-Figma File: Not started
+Figma File: N/A
 ID: 7.2
 Lesson: 7. Reflection
 Text: Ready for Review
@@ -54,17 +54,17 @@ You can view your partner’s work in previous Figma exercise files for further 
 ## Self-Reflection Template
 
 <aside>
-👇 Copy and Paste the following into Word, Google Docs, or other writing app. Leave the section titles and replace the questions with your own writing.
+👇 Copy and Paste the following into Word, Google Docs, or other writing app. Leave the numbered section titles and replace the questions with your own writing.
 
 </aside>
 
 1. ****************************************Artist or Designer:**************************************** 
     - Do you consider yourself more of an artist or designer? If you answer “both” which one takes precedence? Consider a hypothetical audience, venue, or purpose for your work.
 2. **********Taste**********
-    - What aesthetic tastes or predilections do you see in your work so far? Include some specific adjectives and/or stylistic genres (e.g. “grungy” or “70s psychedelia”).
+    - What aesthetic tastes or predilections do you see in your work so far? Include 3-5 specific adjectives and/or stylistic genres (e.g. “grungy” or “70s psychedelia”).
     - Include a quote from the Vanderbilt reading and connect it to your work in this class.
 3. ********************Soundtrack********************
-    - What is the soundtrack to your work? (Music genre, artist, or song.) This isn’t necessarily music you listen to while you work, but music that aligns with your aesthetics and creative vibe. If you can't choose something representative of your work overall, you can choose a soundtrack for a specific Exercise. This is a way to think about tone and genre, as well as an interdisciplinary thought experiment.
+    - What is the soundtrack to your work? (Music genre, artist, or song.) This isn’t necessarily music you listen to while you work, but music that aligns with your aesthetic preferences and creative vibe. If you can't choose something representative of your work overall, you can choose a soundtrack for a specific Exercise. This is a way to think about tone and genre, as well as an interdisciplinary thought experiment.
 4. ************************************************Favorite Artist/Designer************************************************
     - Who is your favorite artist/designer that has been featured in class so far? This doesn’t have to be one of the primary Case Studies, but could be anyone mentioned in a reading or video. You can choose a specific work or simply name the person more generally.
     - Explain why you made this selection.

@@ -4,7 +4,7 @@ Figma File: N/A
 ID: 5.3
 Lesson: 5. Color
 Text: Ready for Review
-Type: 💬 Canvas Discussion
+Type: 📄 Page 
 Video: N/A
 
 Recalling the introduction to this class, and the overlapping domains of art, design, and pop culture, I’m curious how you feel about the selection of a video game as this week’s case study.

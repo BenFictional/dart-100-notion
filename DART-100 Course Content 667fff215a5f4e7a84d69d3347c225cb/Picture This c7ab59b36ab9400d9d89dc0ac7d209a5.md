@@ -13,7 +13,7 @@ The following excerpt comes from Molly Bang’s 1991 book *Picture This*, which 
 
 ## Response
 
-**Find a still from a film or television series** that demonstrates one of the compositional strategies described in the reading. Animated work is okay to use! 
+**Find a still from a film, television series, or comic book** that demonstrates one of the compositional strategies described in the reading.
 
 **Post the image** in the relevant Canvas discussion with a brief description of how it uses shapes or color effectively.
 

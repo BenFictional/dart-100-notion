@@ -1,7 +1,7 @@
 # Surface Tension
 
 Exercise Format: Unique Pages in File
-Figma File: Not started
+Figma File: Done
 ID: 6.2
 Lesson: 6. Pattern
 Tags: Art, Graphic Design, Installation

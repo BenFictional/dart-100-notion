@@ -74,13 +74,15 @@ One thing I'd like students to think about with regard to this campaign by Wal
 
 ![Untitled](Jessica%20Walsh%202e9520e5c8594a36842eec17ee7ebda4/Untitled%203.png)
 
+![Untitled](Jessica%20Walsh%202e9520e5c8594a36842eec17ee7ebda4/Untitled%204.png)
+
 https://www.carlemuseum.org/about/about-eric-carle/artistic-process
 
 This stuff can feel overly decorative if it's not intrinsic to the work. With digital tools, we can easily add a veneer of "sketchiness" or "grunge" to a design, or layer on textures and noise to create some depth. ([Grunge typefaces](https://www.fontsquirrel.com/fonts/list/tag/grunge) usually make me cringe for this reason.) So what advice would you give to students when they're choosing textures or an overarching style for a work? How do you know if you should add paint-splatters, stained concrete, or just keep your colors flat?
 
 ******CR:****** I think for students exploring texture, experimentation is key in order to find their voice.  Also to keep in mind that their aesthetics will evolve over time.  Once upon a time in my early days, I was quite a big fan of David Carson...which was a good starting point for me (the "grunge" era for sure, but I liked how he manipulated type as a visual texture---akin to some of Debbie Millman and Ellen Lupton's style with text as texture).  It was a good way to explore (in this case) type as a textural element...I would even print it out, scuff it up, scan it and manipulate it further.  All of those experiments ended up being the steps needed for me to find my current body of work (sans the ode to Carson).
 
-![[David Carson, Raygun Magainze](https://cvltnation.com/fuck-yeah-ray-gun-changed-90s-graphic-design/) ](Jessica%20Walsh%202e9520e5c8594a36842eec17ee7ebda4/Untitled%204.png)
+![[David Carson, Raygun Magainze](https://cvltnation.com/fuck-yeah-ray-gun-changed-90s-graphic-design/) ](Jessica%20Walsh%202e9520e5c8594a36842eec17ee7ebda4/Untitled%205.png)
 
 [David Carson, Raygun Magainze](https://cvltnation.com/fuck-yeah-ray-gun-changed-90s-graphic-design/) 
 

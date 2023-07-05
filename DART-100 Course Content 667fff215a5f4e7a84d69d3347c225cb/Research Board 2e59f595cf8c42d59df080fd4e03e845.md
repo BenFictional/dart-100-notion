@@ -64,6 +64,7 @@ Your topic should have recognizable stylistic details. Do not choose a medium (c
 - Vintage cookbooks
 - Soviet propaganda posters
 - WPA posters
+- 
 
 ## Create an Image Board
 

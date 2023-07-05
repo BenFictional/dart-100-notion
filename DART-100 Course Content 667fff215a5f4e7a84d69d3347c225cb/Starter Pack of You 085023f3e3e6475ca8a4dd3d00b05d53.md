@@ -46,7 +46,7 @@ Each student should arrange their images in a [section](https://help.figma.com/h
 
 **When finished, select “File » Save to Version History” to ensure your work is saved.** You will be prompted to enter a title — type “Finished” — you don’t need to enter your name here because the Version History will automatically associate this action with your account. 
 
-(This is a safeguard in case someone accidentally deletes your work in the shared file, which can be recovered according to prior instructions. See “What to do if something gets deleted” in the “[Etiquette for Shared Files](Etiquette%20for%20Shared%20Files%200e245b6d49eb45c88fb2deaaf41a57ac.md)” page).
+(This is a safeguard in case someone accidentally deletes your work in the shared file, which can be recovered according to prior instructions. See “What to do if something gets deleted” in the “[Etiquette for Shared Files](Etiquette%20and%20Communication%20in%20Figma%200e245b6d49eb45c88fb2deaaf41a57ac.md)” page).
 
 ## FigJam Exploration
 

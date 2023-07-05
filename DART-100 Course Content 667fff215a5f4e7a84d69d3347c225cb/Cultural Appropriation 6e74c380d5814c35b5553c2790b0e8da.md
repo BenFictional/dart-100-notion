@@ -1,6 +1,6 @@
 # Cultural Appropriation
 
-Figma File: N/A
+Figma File: Done
 ID: 12.2
 Lesson: 12. Symmetry
 Text: Ready for Review

@@ -1,7 +1,7 @@
 # Personal Spaces
 
 Exercise Format: Multiple Unique Files
-Figma File: Not started
+Figma File: Done
 ID: 11.2
 Lesson: 11. Proximity
 Text: Ready for Review

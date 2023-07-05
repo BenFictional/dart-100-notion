@@ -2,7 +2,7 @@
 
 Figma File: N/A
 ID: 9.2
-Lesson: 9. Heirarchy
+Lesson: 9. Hierarchy
 Text: Ready for Review
 Type: 📙 Reading
 Video: N/A

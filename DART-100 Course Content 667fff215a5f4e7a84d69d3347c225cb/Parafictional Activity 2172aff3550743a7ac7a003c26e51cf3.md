@@ -1,9 +1,9 @@
 # Parafictional Activity
 
 Exercise Format: Single Page File
-Figma File: Not started
+Figma File: Done
 ID: 9.3
-Lesson: 9. Heirarchy
+Lesson: 9. Hierarchy
 Text: Ready for Review
 Type: ⚡️ Exercise
 Video: N/A

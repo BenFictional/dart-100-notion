@@ -1,12 +1,12 @@
 # Bauhaus Trends
 
 Exercise Format: Canvas Discussion
-Figma File: Not started
+Figma File: N/A
 ID: 2.3
 Lesson: 2. Balance 
 Notes: Should discussion prompts just be in Canvas or exist as course pages?
 Text: Finalized
-Type: 💬 Canvas Discussion
+Type: 📄 Page 
 Video: N/A
 
 Let’s revisit a moment from last week’s podcast, a conversation between Articles of Interest host Avery Truffleman and fashion writer Derrick Guy:
@@ -38,3 +38,9 @@ Walk around the grocery store with your camera, browse collections of website de
 Include a short analysis of your pick, explaining how it uses Fundamental Concepts in the style of the Bauhaus. Also discuss how it relates to [the ideas of the Bauhaus](https://medium.com/a-rchi-tech-ture/bauhaus-manifesto-532c6d50d370): Does it “unite all creative activity within a single whole?” Does it bring beautiful and efficient design to ordinary people? Does it demonstrate attention to craft? 
 
 You are also welcome (encouraged?) to disagree with the premise of the Bauhaus as a default design style.
+
+## Submission
+
+Post your response in the relevant Canvas discussion.
+
+Target length: 200 words.

@@ -1,37 +1,40 @@
-﻿ID,Name,Type,Lesson,Text,Video,Figma File,Notes,Date,Exercise Format,Tags
-1.1,Syllabus,📖 Canvas,1. Context,Writing,N/A,N/A,,,,
-1.3,Creative Context,"📄 Page ",1. Context,Not started,Not started,N/A,"Waiting until most of the course is done, so I can accurately introduce everything.",,,
-1.2,Getting started with Figma,"📄 Page ",1. Context,Writing,N/A,N/A,Waiting to finalize setup of team workspace,,,
-1.4,Etiquette for Shared Files,"📄 Page ",1. Context,Finalized,Not started,N/A,,,,
-1.5,Trends and Syntax,📙 Reading,1. Context,Finalized,N/A,N/A,,,,
-1.6,Starter Pack of You,⚡️ Exercise,1. Context,Finalized,File Ready,Done,,,FigJam,
-2.1,Gunta Stözel,🔎 Case Study,"2. Balance ",Finalized,File Ready,N/A,,,,"Design, Graphic Design"
-2.2,Shape Shifter,⚡️ Exercise,"2. Balance ",Finalized,File Ready,Done,,,Single Page File,
-2.3,Bauhaus Trends,💬 Canvas Discussion,"2. Balance ",Finalized,N/A,Not started,Should discussion prompts just be in Canvas or exist as course pages?,,Canvas Discussion,
-3.1,Jessica Walsh,🔎 Case Study,3. Texture,Ready for Review,N/A,N/A,,,,"Design, Graphic Design, Photography"
-3.2,Texturizer,⚡️ Exercise,3. Texture,Ready for Review,File Ready,Not started,,,Duplicate Previous File,
-4.1,Saul Bass,🔎 Case Study,4. Movement,Ready for Review,File Ready,N/A,,,,"Animation, Design"
-4.2,Picture This,📙 Reading,4. Movement,Ready for Review,N/A,N/A,,,,
-4.3,Scene Change,⚡️ Exercise,4. Movement,Ready for Review,File Ready,Done,,,Unique Pages in File,
-5.1,Super Metroid,🔎 Case Study,5. Color,Ready for Review,File Ready,N/A,,,,"Pop Culture, Video Game"
-5.2,"Palette Party ",⚡️ Exercise,5. Color,Ready for Review,File Ready,Done,,,Single Page File,
-5.3,How to think about games,💬 Canvas Discussion,5. Color,Ready for Review,N/A,N/A,,,,
-6.1,Yayoi Kusama,🔎 Case Study,6. Pattern,Ready for Review,N/A,N/A,,,,"Art, Installation"
-6.2,Surface Tension,⚡️ Exercise,6. Pattern,Ready for Review,File Ready,Not started,,,Unique Pages in File,"Art, Graphic Design, Installation"
-7.1,Reflection & Taste,📙 Reading,7. Reflection,Ready for Review,N/A,N/A,,,,
-7.2,Self-Reflection,⚡️ Exercise,7. Reflection,Ready for Review,N/A,Not started,,,Canvas Assignment,
-8.1,Pascal Zoghbi & Ian Party,🔎 Case Study,8. Shape,Ready for Review,File Ready,N/A,,,,
-8.2,Extra Bold,📙 Reading,8. Shape,Ready for Review,N/A,N/A,,,,
-8.3,Font Fusion,⚡️ Exercise,8. Shape,Ready for Review,File Ready,Not started,,,Single Page File,
-9.1,Guilleremo Gomez-Péna,🔎 Case Study,9. Heirarchy,Ready for Review,File Ready,N/A,,,,"Art, Performance, Video Game"
-9.2,Choosing and Setting Type,📙 Reading,9. Heirarchy,Ready for Review,N/A,N/A,,,,
-9.3,Parafictional Activity,⚡️ Exercise,9. Heirarchy,Ready for Review,N/A,Not started,,,Single Page File,
-10.1,Charles Joseph Minard,🔎 Case Study,10. Scale,Ready for Review,File Ready,N/A,,,,"DataViz, Design"
-10.2,"DataViz ",⚡️ Exercise,10. Scale,Ready for Review,N/A,Not started,,,Single Page File,
-11.1,Felix Gonzales-Torres,🔎 Case Study,11. Proximity,Ready for Review,N/A,N/A,,,,"Art, Photography"
-11.2,Personal Spaces,⚡️ Exercise,11. Proximity,Ready for Review,File Ready,Not started,,,Multiple Unique Files,
-12.1,Zarah Hussain,🔎 Case Study,12. Symmetry,Ready for Review,File Ready,N/A,,,,"Animation, Art"
-12.2,Cultural Appropriation,📙 Reading,12. Symmetry,Ready for Review,N/A,N/A,,,,
-12.3,Symbol Spin,⚡️ Exercise,12. Symmetry,Ready for Review,Recorded,Not started,,,Unique Pages in File,
-13.2,Independent Project,⚡️ Exercise,13. Harmony,Ready for Review,N/A,N/A,,,Multiple Unique Files,
-13.1,Research Board,⚡️ Exercise,13. Harmony,Ready for Review,N/A,Not started,,,Multiple Unique Files,
+﻿ID,Name,Type,Figma File,Lesson,Text,Video,Notes
+0.1,Syllabus,📖 Canvas,N/A,Canvas content,Ready for Review,N/A,
+0.2,Orientation Quiz,📖 Canvas,N/A,Canvas content,Not started,N/A,
+1.1,Context,"📄 Page ",N/A,1. Context,Ready for Review,File Ready,"Waiting until most of the course is done, so I can accurately introduce everything."
+1.2,Getting started with Figma,"📄 Page ",N/A,1. Context,Ready for Review,N/A,Waiting to finalize setup of team workspace
+1.3,Etiquette and Communication in Figma,"📄 Page ",N/A,1. Context,Finalized,Not started,
+1.4,Recovering Lost Work in Figma,"📄 Page ",N/A,1. Context,Finalized,Not started,
+1.5,Trends and Syntax,📙 Reading,N/A,1. Context,Finalized,N/A,
+1.6,Starter Pack of You,⚡️ Exercise,Done,1. Context,Finalized,File Ready,
+2.1,Gunta Stözel,🔎 Case Study,N/A,"2. Balance ",Finalized,File Ready,
+2.2,Shape Shifter,⚡️ Exercise,Done,"2. Balance ",Finalized,File Ready,
+2.3,Bauhaus Trends,"📄 Page ",N/A,"2. Balance ",Finalized,N/A,Should discussion prompts just be in Canvas or exist as course pages?
+3.1,Jessica Walsh,🔎 Case Study,N/A,3. Texture,Ready for Review,N/A,
+3.2,Texturizer,⚡️ Exercise,Done,3. Texture,Ready for Review,File Ready,
+4.1,Saul Bass,🔎 Case Study,N/A,4. Movement,Ready for Review,File Ready,
+4.2,Picture This,📙 Reading,N/A,4. Movement,Ready for Review,N/A,
+4.3,Scene Change,⚡️ Exercise,Done,4. Movement,Ready for Review,File Ready,
+5.1,Super Metroid,🔎 Case Study,N/A,5. Color,Ready for Review,File Ready,
+5.2,"Palette Party ",⚡️ Exercise,Done,5. Color,Ready for Review,File Ready,
+5.3,How to think about games,"📄 Page ",N/A,5. Color,Ready for Review,N/A,
+6.1,Yayoi Kusama,🔎 Case Study,N/A,6. Pattern,Ready for Review,N/A,
+6.2,Surface Tension,⚡️ Exercise,Done,6. Pattern,Ready for Review,File Ready,
+7.1,Reflection & Taste,📙 Reading,N/A,7. Reflection,Ready for Review,N/A,
+7.2,Self-Reflection,⚡️ Exercise,N/A,7. Reflection,Ready for Review,N/A,
+8.1,Pascal Zoghbi & Ian Party,🔎 Case Study,N/A,8. Shape,Ready for Review,File Ready,
+8.2,Extra Bold,📙 Reading,N/A,8. Shape,Ready for Review,N/A,
+8.3,Font Fusion,⚡️ Exercise,Done,8. Shape,Ready for Review,File Ready,
+9.1,Guilleremo Gomez-Péna,🔎 Case Study,N/A,9. Hierarchy,Ready for Review,File Ready,
+9.2,Choosing and Setting Type,📙 Reading,N/A,9. Hierarchy,Ready for Review,N/A,
+9.3,Parafictional Activity,⚡️ Exercise,Done,9. Hierarchy,Ready for Review,N/A,
+10.1,Charles Joseph Minard,🔎 Case Study,N/A,10. Scale,Ready for Review,File Ready,
+10.2,"DataViz ",⚡️ Exercise,Done,10. Scale,Ready for Review,N/A,
+11.1,Felix Gonzales-Torres,🔎 Case Study,N/A,11. Proximity,Ready for Review,N/A,
+11.2,Personal Spaces,⚡️ Exercise,Done,11. Proximity,Ready for Review,File Ready,
+12.1,Zarah Hussain,🔎 Case Study,N/A,12. Symmetry,Ready for Review,File Ready,
+12.2,Cultural Appropriation,📙 Reading,Done,12. Symmetry,Ready for Review,N/A,
+12.3,Symbol Spin,⚡️ Exercise,Done,12. Symmetry,Ready for Review,Recorded,
+13.1,Research Board,⚡️ Exercise,Not started,13. Harmony,Ready for Review,N/A,
+13.2,Independent Project,⚡️ Exercise,N/A,13. Harmony,Ready for Review,N/A,
+13.3,Final Timeline,"📄 Page ",N/A,13. Harmony,Ready for Review,N/A,

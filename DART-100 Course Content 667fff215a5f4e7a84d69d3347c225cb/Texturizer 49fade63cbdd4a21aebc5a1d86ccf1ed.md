@@ -1,7 +1,7 @@
 # Texturizer
 
 Exercise Format: Duplicate Previous File
-Figma File: Not started
+Figma File: Done
 ID: 3.2
 Lesson: 3. Texture
 Text: Ready for Review

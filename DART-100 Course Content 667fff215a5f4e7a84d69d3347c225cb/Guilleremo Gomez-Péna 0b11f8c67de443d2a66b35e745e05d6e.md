@@ -2,7 +2,7 @@
 
 Figma File: N/A
 ID: 9.1
-Lesson: 9. Heirarchy
+Lesson: 9. Hierarchy
 Tags: Art, Performance, Video Game
 Text: Ready for Review
 Type: 🔎 Case Study
